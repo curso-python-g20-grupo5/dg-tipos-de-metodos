@@ -10,12 +10,12 @@ un personaje.
 
 ● A cada personaje es posible consultarle o asignarle un estado. Al solicitar el estado de un personaje, se debe mostrar en pantalla su nombre, su nivel y su experiencia. Al asignar un valor al estado, este valor corresponderá a la experiencia recibida por el personaje. Según la experiencia recibida, se debe modificar la experiencia actual del personaje y su nivel de acuerdo a lo siguiente:
 
-○ Los valores posibles de experiencia son entre 0 y 99 inclusive.
+    ○ Los valores posibles de experiencia son entre 0 y 99 inclusive.
 
-○ El nivel mínimo es 1 y no hay máximo.
+    ○ El nivel mínimo es 1 y no hay máximo.
 
-○ Cada 100 puntos de experiencia recibidos, el personaje sube 1 nivel (su nivel
-aumenta en 1)
+    ○ Cada 100 puntos de experiencia recibidos, el personaje sube 1 nivel (su nivel
+    aumenta en 1)
 
 ## Archivos del Proyecto
 
